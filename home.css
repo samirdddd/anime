@@ -1,0 +1,29 @@
+h1{
+	margin: 10 px;
+	background-color:black;
+	text-align: center;
+	padding: 10;
+}
+p{
+	text-align: center;
+	color: blueviolet;
+	font-weight: bold;
+}
+      body {
+        background-image: url('iii.jpg');
+        background-size:autos;
+        background-position: center;
+        color: white;
+        font-family: Arial, sans-serif;
+      }
+      .container {
+        padding: 50px;
+        text-align: center;
+      }
+      
+      ul{
+      	color: white;
+      }
+      li{
+      	background-color: aqua;
+      }
